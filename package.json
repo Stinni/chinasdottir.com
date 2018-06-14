@@ -1,0 +1,32 @@
+{
+  "name": "chinasdottir.com",
+  "version": "0.1.0",
+  "description": "",
+  "author": "Kristinn Heiðar Freysteinsson <kristinnf13@ru.is>",
+  "license": "MIT",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Stinni/chinasdottir.com"
+  },
+  "bugs": {
+    "url": "https://github.com/Stinni/chinasdottir.com/issues"
+  },
+  "homepage": "https://github.com/Stinni/chinasdottir.com#readme",
+  "engines": {
+    "node": ">= 9.10",
+    "npm": ">= 5.6"
+  },
+  "dependencies": {
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "react-scripts": "1.1.4"
+  },
+  "devDependencies": {}
+}
